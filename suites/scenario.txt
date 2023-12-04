@@ -1,0 +1,21 @@
+Test Case
+1. Login Positive Case (Valid Data)
+2. Login Negatice Case (Invalid Data - wrong username & password)
+
+Test Scenario
+
+Positive Case
+1. Open application 
+2. Click sign in button
+3. Input username (Valid Username)
+4. Input password (Valid Password)
+5. Click button sign in
+6. Close application
+
+Negative Case
+1. Open application 
+2. Click sign in button
+3. Input username (Invalid Username)
+4. Input password (Invalid Password)
+5. Click button sign in
+6. Close application
